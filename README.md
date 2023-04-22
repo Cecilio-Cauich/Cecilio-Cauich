@@ -1,5 +1,5 @@
 - 👋 Hi, I'm @Cecilio-Cauich
-- 👀 I’m interested in web delopment.
+- 👀 I’m interested in web delopment and desktop applications.
 - 🌱 I´m currently working with JavaScript, PL SQL and Oracle Cloud and I´m learing NodeJS and C#.
 - 🚀 My hobbies area reading books, watch videos on You Tube about tecologies and practicing boxig.
 <!---
